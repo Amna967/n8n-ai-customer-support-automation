@@ -46,21 +46,19 @@ Tech Stack
 
 ---
 
- Screenshots
+## 📷 Screenshots
 
- Workflow Overview
+### Workflow Overview
 
-`customer support Email Automation n8n.png`
+![Workflow Overview](customer%20support%20Email%20Automation%20n8n.png)
 
-Successful Workflow Execution
+### Successful Workflow Execution
 
-`execution workflow.png`
+![Successful Workflow Execution](execution%20workflow.png)
 
-React User Interface
+### React User Interface
 
-`react ui n8n.png`
-
----
+![React User Interface](react%20ui%20n8n.png)
 
 Files Included
 
